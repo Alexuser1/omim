@@ -1014,7 +1014,7 @@
 	<string name="mobile_data">Мобильный интернет</string>
 	<string name="mobile_data_description">Мобильный интернет требуется для отображения более детальной информации о местах: фотографий, цен, отзывов.</string>
 	<string name="mobile_data_option_never">Никогда не использовать</string>
-	<string name="mobile_data_option_ask">Только сегодня</string>
+	<string name="mobile_data_option_ask">Всегда спрашивать</string>
 	<string name="traffic_update_maps_text">Для отображения пробок необходимо обновить карты.</string>
 	<string name="traffic_outdated">Данные о пробках устарели.</string>
 	<string name="big_font">Увеличить шрифт на карте</string>
